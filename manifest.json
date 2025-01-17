@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "jogo_da_velha",
     "short_name": "jogo_da_velha",
+=======
+    "name": "calculadora",
+    "short_name": "calculadora",
+>>>>>>> 53d36eb9a2e8677f2dea14c6afc0db0cd198c3d6
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
